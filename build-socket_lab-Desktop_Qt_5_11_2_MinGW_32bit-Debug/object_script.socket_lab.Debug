@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\tcpsocket.o
+./debug\tcpserver.o
+./debug\socketexception.o
+./debug\httpthread.o
+./debug\socketthread.o
+./debug\config.o
+./debug\tltipwidget.o
+./debug\global.o
+./debug\qrc_rc.o
+./debug\moc_mainwindow.o
+./debug\moc_tltipwidget.o
+);

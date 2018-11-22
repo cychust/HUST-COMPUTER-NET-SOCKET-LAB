@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\tcpsocket.o
+./release\tcpserver.o
+./release\socketexception.o
+./release\httpthread.o
+./release\socketthread.o
+./release\config.o
+./release\tltipwidget.o
+./release\global.o
+./release\qrc_rc.o
+./release\moc_mainwindow.o
+./release\moc_tltipwidget.o
+);
