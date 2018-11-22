@@ -26,3 +26,16 @@
 
 ![Alt text](./md_image/1542906243849.png)
 中间的 `toast` 是仿 `Android` 的 `toast`
+
+
+
+涉及的知识：
+
+
+
+- socket 编程 ，
+- 开多线程
+  - Windows API: "pthread.h"
+  -  QT： QThread的继承
+- 子线程和主线程的同步，加锁的机制
+- Qt UI的优化
