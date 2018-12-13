@@ -3,6 +3,7 @@
 > 计网实验 socket编程
 
 -  编程语言 C++
+-  [socket编程(windows下)相关知识](https://github.com/cychust/socket/blob/master/socket%E7%BC%96%E7%A8%8B.md)
 -  界面 Qt
 
 - 界面如下
